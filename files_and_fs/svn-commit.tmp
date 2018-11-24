@@ -1,0 +1,4 @@
+changed and supposed to work with wchar_t
+--This line, and those below, will be ignored--
+
+M    wc.c

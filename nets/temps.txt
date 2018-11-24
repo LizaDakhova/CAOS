@@ -1,0 +1,10 @@
+a.out
+client
+client_1.c
+client.c
+nets.c
+server
+server_1.c
+server.c
+temps.txt
+test.c
